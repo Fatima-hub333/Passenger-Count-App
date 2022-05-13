@@ -8,7 +8,7 @@ This is the simple JavaScript App where you can add the number of passengers at 
 <!-- ![screenshot](images/base/Capstone-1.png) -->
 
 ## [LiveDemo] 
-(https://bakshinternational.com)
+(https://fatima-hub333.github.io/Passenger-Count-App/)
 
 ## Built With
 
